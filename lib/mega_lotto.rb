@@ -1,4 +1,5 @@
 require "mega_lotto/version"
+require "mega_lotto/drawing"
 
 #conditional require for development dependency
 begin 
